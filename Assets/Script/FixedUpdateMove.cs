@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LateUpdateMove : MonoBehaviour
+public class FixedUpdateMove : MonoBehaviour
 {
     public float speed = 1.0f;
     
